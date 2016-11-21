@@ -1,0 +1,4 @@
+moduleName=eol-search
+moduleVersion=0.1-test
+extensionClasses=extmodules.EolSearch
+staticExtensionClasses=extmodules.EolPing
